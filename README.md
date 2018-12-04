@@ -15,6 +15,7 @@ I have checked-in related npm packages with this repo (not sure if i should do t
 * install nodejs
 * install google-cloud-vision-api-library
 * download the project
+* install dependencies
 * modify the details related to google-cloud in configuration js
 * open console (or open project with some code editor)
 * run using 'npm start' or the code editor
